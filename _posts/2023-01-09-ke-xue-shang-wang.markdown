@@ -40,7 +40,7 @@ bash <(curl -Ls https://www.github.com/vaxilu/x-ui/master/install.sh)
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 
-![啊哦！图片跑丢了，快联系笔者修复吧！](https://github.com/Rayminn/Rayminn.github.io/img/zheng-xiang-dai-li-1.png)
+![啊哦！图片跑丢了，快联系笔者修复吧！](https://github.com/Rayminn/Rayminn.github.io/tree/main/img/zheng-xiang-dai-li-1.png)
 
 # 0x03 节点添加
 
