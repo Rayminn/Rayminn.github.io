@@ -40,13 +40,13 @@ bash <(curl -Ls https://www.github.com/vaxilu/x-ui/master/install.sh)
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 
-![啊哦！图片跑丢了，快联系笔者修复吧！](https://github.com/Rayminn/Rayminn.github.io/tree/main/img/zheng-xiang-dai-li-1.png)
+![啊哦！图片跑丢了，快联系笔者修复吧！](../img/zheng-xiang-dai-li-1.png)
 
 # 0x03 节点添加
 
 点击入站列表里的加号就能添加节点啦各种参数均可自行设置~~笔者不懂，遂默认~~。
 
-![啊哦！图片跑丢了，快联系笔者修复吧！](https://github.com/Rayminn/Rayminn.github.io/img/zheng-xiang-dai-li-2.png)
+![啊哦！图片跑丢了，快联系笔者修复吧！](../img/zheng-xiang-dai-li-2.png)
 
 添加完成后点击操作，即可扫描二维码添加节点啦~
 
