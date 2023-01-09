@@ -35,18 +35,17 @@ sudo yum install curl # CentOS
 笔者使用的是BBR内核，用一键脚本安装即可：
 
 ```shell
-bash <(curl -Ls https://www.github.com/vaxilu/x-ui/master/install.sh)
-#如果代理服务器访问github受阻可以用镜像站：
+# 访问比较慢也可以用镜像站，推荐kgithub.com
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 
-![啊哦！图片跑丢了，快联系笔者修复吧！](https://www.github.com/Rayminn/Rayminn.github.io/raw/master/img/zheng-xiang-dai-li-1.png)
+![啊哦！图片跑丢了，快联系笔者修复吧！](https://raw.githubusercontent.com/Rayminn/Rayminn.github.io/main/img/zheng-xiang-dai-li-1.png)
 
 # 0x03 节点添加
 
 点击入站列表里的加号就能添加节点啦各种参数均可自行设置~~笔者不懂，遂默认~~。
 
-![啊哦！图片跑丢了，快联系笔者修复吧！](https://www.github.com/Rayminn/Rayminn.github.io/raw/master/img/zheng-xiang-dai-li-2.png)
+![啊哦！图片跑丢了，快联系笔者修复吧！](https://raw.githubusercontent.com/Rayminn/Rayminn.github.io/main/img/zheng-xiang-dai-li-1.png)
 
 添加完成后点击操作，即可扫描二维码添加节点啦~
 
