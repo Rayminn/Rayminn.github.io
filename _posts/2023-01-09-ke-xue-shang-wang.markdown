@@ -23,7 +23,7 @@ tags:
 - vps服务器一台，CentOS 7+，Ubuntu 16+，Debian 8+均可；
 - 域名（非必要，套用CDN用）。
 
-首先需要在服务器上安装`curl`：
+首先需要在服务器上安装curl：
 
 ```shell
 sudo apt install curl # Ubuntu/Debian
@@ -32,7 +32,7 @@ sudo yum install curl # CentOS
 
 # 0x02 安装
 
-笔者使用的是`BBR`内核，用一键脚本安装即可：
+笔者使用的是BBR内核，用一键脚本安装即可：
 
 ```shell
 bash <(curl -Ls https://www.github.com/vaxilu/x-ui/master/install.sh)
@@ -40,13 +40,13 @@ bash <(curl -Ls https://www.github.com/vaxilu/x-ui/master/install.sh)
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 
-![啊哦！图片跑丢了，快联系笔者修复吧！](../img/zheng-xiang-dai-li-1.png)
+![啊哦！图片跑丢了，快联系笔者修复吧！](https://github.com/Rayminn/Rayminn.github.io/img/zheng-xiang-dai-li-1.png)
 
 # 0x03 节点添加
 
 点击入站列表里的加号就能添加节点啦各种参数均可自行设置~~笔者不懂，遂默认~~。
 
-![啊哦！图片跑丢了，快联系笔者修复吧！](../img/zheng-xiang-dai-li-2.png)
+![啊哦！图片跑丢了，快联系笔者修复吧！](https://github.com/Rayminn/Rayminn.github.io/img/zheng-xiang-dai-li-2.png)
 
 添加完成后点击操作，即可扫描二维码添加节点啦~
 
