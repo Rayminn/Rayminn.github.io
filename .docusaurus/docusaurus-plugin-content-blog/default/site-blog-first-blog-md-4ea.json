@@ -1,0 +1,40 @@
+{
+  "permalink": "/docusaurus-theme-zen/en/first-blog",
+  "editUrl": "https://github.com/wrm244/docusaurus-theme-zen/edit/main/blog/first-blog.md",
+  "source": "@site/blog/first-blog.md",
+  "title": "Docusaurus-Theme-Zen",
+  "description": "logo",
+  "date": "2023-04-12T14:09:58.000Z",
+  "formattedDate": "April 12, 2023",
+  "tags": [
+    {
+      "label": "docusaurus-theme-zen",
+      "permalink": "/docusaurus-theme-zen/en/tags/docusaurus-theme-zen"
+    },
+    {
+      "label": "lifestyle",
+      "permalink": "/docusaurus-theme-zen/en/tags/lifestyle"
+    }
+  ],
+  "readingTime": 2.033333333333333,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "河山的技术存档",
+      "title": "RiverMountain",
+      "url": "https://github.com/wrm244",
+      "imageURL": "/assets/images/social/avatar.jpg",
+      "key": "RiverMountain"
+    }
+  ],
+  "frontMatter": {
+    "slug": "first-blog",
+    "title": "Docusaurus-Theme-Zen",
+    "date": "2023-04-12T14:09:58.000Z",
+    "tags": [
+      "docusaurus-theme-zen",
+      "lifestyle"
+    ],
+    "authors": "RiverMountain"
+  }
+}
