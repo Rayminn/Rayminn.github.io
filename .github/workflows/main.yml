@@ -1,0 +1,54 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Use Node.js v18.5
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18.5.0'
+
+      #使用缓存
+      - name: Cache node modules
+        uses: actions/cache@v1
+        id: cache
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - name: Install Dependencies
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: yarn install
+      
+      - name: Build Project
+        run: |
+          yarn run build
+
+      #使用SSH同步到云服务器
+      # - name: SSH Deploy
+      #   uses: easingthemes/ssh-deploy@v2.2.11
+      #   env:
+      #     SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+      #     ARGS: '-avzr --delete'
+      #     SOURCE: './build'
+      #     REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+      #     REMOTE_USER: 'root'
+      #     TARGET: '/www/wwwroot/wrm244'
+
+      - name: Github page Deploy
+        uses: wrm244/docusaurus-deploy-action@master # 
+        env:
+          PERSONAL_TOKEN: ${{ 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 }} # 你的Github个人账号密钥
+          PUBLISH_REPOSITORY: Rayminn/Rayminn.github.io # 公共仓库，格式：GitHub 用户名/仓库名
+          BRANCH: main # 部署分支
+          PUBLISH_DIR: ./build # 部署 ./build 目录下的文件
