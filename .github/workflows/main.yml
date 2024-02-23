@@ -48,7 +48,7 @@ jobs:
       - name: Github page Deploy
         uses: wrm244/docusaurus-deploy-action@master # 
         env:
-          PERSONAL_TOKEN: ${{ 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 }} # 你的Github个人账号密钥
+          PERSONAL_TOKEN: ${{ secrets.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 }} # 你的Github个人账号密钥
           PUBLISH_REPOSITORY: Rayminn/Rayminn.github.io # 公共仓库，格式：GitHub 用户名/仓库名
           BRANCH: main # 部署分支
           PUBLISH_DIR: ./build # 部署 ./build 目录下的文件
