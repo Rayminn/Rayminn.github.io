@@ -7,7 +7,7 @@ const katex = require('rehype-katex');
 const config = {
   title: 'docusaurus-theme-zen',
   titleDelimiter: '-',
-  url: 'https://rayminn.github.io/',//请填写你的网站
+  url: 'https://Rayminn.github.io/',//请填写你的网站
   baseUrl: '/',//建议填写/
   favicon: '/assets/images/social/avatar.ico',
   organizationName: '',
