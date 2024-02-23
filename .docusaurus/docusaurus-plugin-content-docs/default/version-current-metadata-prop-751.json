@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "README",
-        "href": "/docusaurus-theme-zen/en/docs/Stack",
+        "href": "/docs/Stack",
         "docId": "stack/introduction"
       }
     ]

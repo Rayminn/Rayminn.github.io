@@ -1,6 +1,6 @@
 {
   "type": "mdx",
-  "permalink": "/docusaurus-theme-zen/en/about",
+  "permalink": "/en/about",
   "source": "@site/i18n/en/docusaurus-plugin-content-pages/about.mdx",
   "title": "Introduction",
   "description": "RiverMountain self-introduction",
