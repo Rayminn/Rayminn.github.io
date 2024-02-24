@@ -1,10 +1,10 @@
 export const projects: Project[] = [
   {
-    title: 'docusaurus-theme-zen',
-    description: '基于Docusaurus v2 主题设计部署个人网站',
+    title: 'Rayminn-blog',
+    description: '某不知名OIer的窝',
     preview: '/assets/images/project/blog.png',
-    website: 'https://wrm244.github.io/docusaurus-theme-zen',
-    source: 'https://github.com/wrm244/docusaurus-theme-zen',
+    website: 'https://blog.rayminn.top',
+    source: 'https://github.com/Rayminn',
     tags: ['opensource', 'design', 'favorite'],
     type: 'web',
   },

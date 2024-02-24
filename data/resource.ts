@@ -29,13 +29,13 @@ export const resourceData: ResourceCategory[] = [
     resources: friends,
   },
   {
-    name: '添加你收藏的站点',
+    name: '收藏站点',
     resources: [
       {
-        name: '动手学深度学习',
-        desc: '面向中文读者的能运行、可讨论的深度学习教科书',
+        name: '冬之纪行诗',
+        desc: '一个集成度满分的MCaddon',
         logo: '/assets/images/resource/d2l.png',
-        href: 'https://zh.d2l.ai/',
+        href: 'https://bluemarkstudio.gitee.io/thepoetryofwinter/',
       },
     ],
   },
