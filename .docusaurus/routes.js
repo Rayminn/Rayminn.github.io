@@ -3,105 +3,70 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '75a'),
+    path: '/en/about',
+    component: ComponentCreator('/en/about', 'bfc'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ef'),
+    path: '/en/archive',
+    component: ComponentCreator('/en/archive', '285'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'ab9'),
+    path: '/en/first-blog',
+    component: ComponentCreator('/en/first-blog', 'c6b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'f57'),
+    path: '/en/friends/',
+    component: ComponentCreator('/en/friends/', 'd00'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'e0f'),
+    path: '/en/project/',
+    component: ComponentCreator('/en/project/', '391'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '395'),
+    path: '/en/resource/',
+    component: ComponentCreator('/en/resource/', '6fa'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '31d'),
+    path: '/en/search',
+    component: ComponentCreator('/en/search', 'b00'),
     exact: true
   },
   {
-    path: '/about',
-    component: ComponentCreator('/about', '9ba'),
+    path: '/en/tags',
+    component: ComponentCreator('/en/tags', '12b'),
     exact: true
   },
   {
-    path: '/archive',
-    component: ComponentCreator('/archive', 'f6e'),
+    path: '/en/tags/docusaurus-theme-zen',
+    component: ComponentCreator('/en/tags/docusaurus-theme-zen', '305'),
     exact: true
   },
   {
-    path: '/first-blog',
-    component: ComponentCreator('/first-blog', '85b'),
+    path: '/en/tags/lifestyle',
+    component: ComponentCreator('/en/tags/lifestyle', 'b10'),
     exact: true
   },
   {
-    path: '/friends/',
-    component: ComponentCreator('/friends/', '41b'),
-    exact: true
-  },
-  {
-    path: '/project/',
-    component: ComponentCreator('/project/', '4d4'),
-    exact: true
-  },
-  {
-    path: '/resource/',
-    component: ComponentCreator('/resource/', 'fc3'),
-    exact: true
-  },
-  {
-    path: '/search',
-    component: ComponentCreator('/search', 'd7d'),
-    exact: true
-  },
-  {
-    path: '/tags',
-    component: ComponentCreator('/tags', '8c0'),
-    exact: true
-  },
-  {
-    path: '/tags/docusaurus-theme-zen',
-    component: ComponentCreator('/tags/docusaurus-theme-zen', 'cfc'),
-    exact: true
-  },
-  {
-    path: '/tags/lifestyle',
-    component: ComponentCreator('/tags/lifestyle', '705'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', '8a2'),
+    path: '/en/docs',
+    component: ComponentCreator('/en/docs', '076'),
     routes: [
       {
-        path: '/docs/Stack',
-        component: ComponentCreator('/docs/Stack', '158'),
+        path: '/en/docs/Stack',
+        component: ComponentCreator('/en/docs/Stack', '72a'),
         exact: true,
         sidebar: "stack"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '24c'),
+    path: '/en/',
+    component: ComponentCreator('/en/', 'b5c'),
     exact: true
   },
   {

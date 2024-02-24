@@ -7,7 +7,7 @@ const announcementBarContent = `🎉欢迎来到Rayminn的窝`
 const config = {
   title: 'docusaurus-theme-zen',
   titleDelimiter: '-',
-  url: 'https://Rayminn.github.io/',//请填写你的网站
+  url: 'https://blog.rayminn.top/',//请填写你的网站
   baseUrl: '/',//建议填写/
   favicon: '/assets/images/social/avatar.ico',
   organizationName: '',
@@ -148,7 +148,7 @@ const config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/wrm244/docusaurus-theme-zen',
+              href: 'https://github.com/Rayminn',
             },
           ],
         },
@@ -226,12 +226,8 @@ const config = {
       playgroundPosition: 'top',
     },
     socials: {//需要修改
-      github: 'https://github.com/',
-      twitter: 'https://twitter.com/',
-      csdn: 'https://blog.csdn.net/',
-      juejin: 'https://juejin.cn/',
-      qq: 'tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=xxxxxxxx&website=www.oicqzone.com',
-      zhihu: 'https://www.zhihu.com/',
+      github: 'https://github.com/Rayminn',
+      zhihu: 'https://www.zhihu.com/people/lei-dui-dui-64',
     },
   },
   headTags: [
