@@ -1,40 +1,35 @@
 {
-  "permalink": "/en/first-blog",
+  "permalink": "/first-blog",
   "editUrl": "https://github.com/wrm244/docusaurus-theme-zen/edit/main/blog/first-blog.md",
   "source": "@site/blog/first-blog.md",
-  "title": "Docusaurus-Theme-Zen",
-  "description": "logo",
-  "date": "2023-04-12T14:09:58.000Z",
-  "formattedDate": "April 12, 2023",
+  "title": "First-blog",
+  "description": "First-blog",
+  "date": "2024-02-24T21:49:58.000Z",
+  "formattedDate": "2024年2月24日",
   "tags": [
     {
-      "label": "docusaurus-theme-zen",
-      "permalink": "/en/tags/docusaurus-theme-zen"
-    },
-    {
       "label": "lifestyle",
-      "permalink": "/en/tags/lifestyle"
+      "permalink": "/tags/lifestyle"
     }
   ],
-  "readingTime": 2.033333333333333,
-  "hasTruncateMarker": true,
+  "readingTime": 0.09666666666666666,
+  "hasTruncateMarker": false,
   "authors": [
     {
-      "name": "河山的技术存档",
-      "title": "RiverMountain",
-      "url": "https://github.com/wrm244",
+      "name": "Rayminn",
+      "title": "Rayminn",
+      "url": "https://github.com/Rayminn",
       "imageURL": "/assets/images/social/avatar.jpg",
-      "key": "RiverMountain"
+      "key": "Rayminn"
     }
   ],
   "frontMatter": {
     "slug": "first-blog",
-    "title": "Docusaurus-Theme-Zen",
-    "date": "2023-04-12T14:09:58.000Z",
+    "title": "First-blog",
+    "date": "2024-02-24T21:49:58.000Z",
     "tags": [
-      "docusaurus-theme-zen",
       "lifestyle"
     ],
-    "authors": "RiverMountain"
+    "authors": "Rayminn"
   }
 }

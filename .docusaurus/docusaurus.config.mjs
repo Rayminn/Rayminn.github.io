@@ -6,8 +6,8 @@
 export default {
   "title": "docusaurus-theme-zen",
   "titleDelimiter": "-",
-  "url": "https://Rayminn.github.io",
-  "baseUrl": "/en/",
+  "url": "https://blog.rayminn.top",
+  "baseUrl": "/",
   "favicon": "/assets/images/social/avatar.ico",
   "organizationName": "",
   "projectName": "docusaurus-theme-zen",
@@ -321,7 +321,7 @@ export default {
       "versionPersistence": "localStorage"
     },
     "navbar": {
-      "title": "RM's Technical Archive",
+      "title": "docusaurus-theme-zen",
       "logo": {
         "alt": "your name",
         "src": "/assets/images/social/avatar.png",
@@ -330,45 +330,45 @@ export default {
       "hideOnScroll": false,
       "items": [
         {
-          "label": "blog",
+          "label": "博客",
           "position": "left",
           "items": [
             {
-              "label": "Tags",
+              "label": "标签",
               "to": "tags"
             },
             {
-              "label": "Archive",
+              "label": "归档",
               "to": "archive"
             },
             {
-              "label": "Lifestyle",
+              "label": "随笔",
               "to": "tags/lifestyle"
             }
           ]
         },
         {
-          "label": "Notes",
+          "label": "笔记",
           "position": "left",
           "to": "docs/stack/",
           "items": [
             {
-              "label": "Build Site",
+              "label": "本站的搭建",
               "to": "first-blog"
             },
             {
-              "label": "Stack",
+              "label": "学习栈",
               "to": "docs/stack/"
             }
           ]
         },
         {
-          "label": "Links",
+          "label": "导航",
           "position": "left",
           "to": "resource"
         },
         {
-          "label": "Projects",
+          "label": "项目",
           "position": "left",
           "to": "project"
         },
@@ -384,53 +384,53 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Blog",
+          "title": "博客",
           "items": [
             {
-              "label": "Tags",
+              "label": "标签",
               "to": "tags"
             },
             {
-              "label": "Archive",
+              "label": "归档",
               "to": "archive"
             }
           ]
         },
         {
-          "title": "Study",
+          "title": "学习",
           "items": [
             {
-              "label": "Notes",
+              "label": "笔记",
               "to": "docs/stack"
             },
             {
-              "label": "Projects",
+              "label": "项目",
               "to": "project"
             }
           ]
         },
         {
-          "title": "Social Media",
+          "title": "社交媒体",
           "items": [
             {
-              "label": "About Me",
+              "label": "关于我",
               "to": "/about"
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/wrm244/docusaurus-theme-zen"
+              "href": "https://github.com/Rayminn"
             }
           ]
         },
         {
-          "title": "More",
+          "title": "更多",
           "items": [
             {
-              "label": "Friends",
+              "label": "友链",
               "to": "friends"
             },
             {
-              "label": "Links",
+              "label": "导航",
               "to": "resource"
             },
             {
@@ -439,7 +439,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 docusaurus-theme-zen. Built with <a href=\"https://docusaurus.io/zh-CN/\" target=\"_blank\">Docusaurus.</a><br/><script async src=\"//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js\"></script><br/><span id=\"busuanzi_container_site_pv\">This site has been visited <span id=\"busuanzi_value_site_pv\"></span> times in total.</span>"
+      "copyright": "版权所有 © 2024 docusaurus-theme-zen, 此网站使用 <a href=\"https://docusaurus.io/zh-CN/\" target=\"_blank\">Docusaurus</a> 搭建\n      <span id=\"runtime_span\"></span>\n      <script type=\"text/javascript\">function show_runtime(){window.setTimeout(\"show_runtime()\",1000);X=new \n      Date(\"02/24/2024 12:00:00\");\n      Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;\n      a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);\n      runtime_span.innerHTML=\"<br>本站已运行: \"+A+\"天\"+B+\"小时\"+C+\"分\"+D+\"秒\"}show_runtime();</script>"
     },
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -468,12 +468,8 @@ export default {
       "playgroundPosition": "top"
     },
     "socials": {
-      "github": "https://github.com/",
-      "twitter": "https://twitter.com/",
-      "csdn": "https://blog.csdn.net/",
-      "juejin": "https://juejin.cn/",
-      "qq": "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=xxxxxxxx&website=www.oicqzone.com",
-      "zhihu": "https://www.zhihu.com/"
+      "github": "https://github.com/Rayminn",
+      "zhihu": "https://www.zhihu.com/people/lei-dui-dui-64"
     }
   },
   "headTags": [

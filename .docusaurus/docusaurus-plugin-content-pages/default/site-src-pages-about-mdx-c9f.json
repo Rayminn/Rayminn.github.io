@@ -3,11 +3,11 @@
   "permalink": "/about",
   "source": "@site/src/pages/about.mdx",
   "title": "自我介绍",
-  "description": "河山的自我介绍",
+  "description": "Rayminn的自我介绍",
   "frontMatter": {
     "id": "about",
     "title": "自我介绍",
-    "description": "河山的自我介绍",
+    "description": "Rayminn的自我介绍",
     "hide_table_of_contents": true
   }
 }
