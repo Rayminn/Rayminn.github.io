@@ -3,65 +3,65 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/about',
-    component: ComponentCreator('/about', '9ba'),
+    path: '/en/about',
+    component: ComponentCreator('/en/about', 'bfc'),
     exact: true
   },
   {
-    path: '/archive',
-    component: ComponentCreator('/archive', 'f6e'),
+    path: '/en/archive',
+    component: ComponentCreator('/en/archive', '285'),
     exact: true
   },
   {
-    path: '/first-blog',
-    component: ComponentCreator('/first-blog', '85b'),
+    path: '/en/first-blog',
+    component: ComponentCreator('/en/first-blog', 'c6b'),
     exact: true
   },
   {
-    path: '/friends/',
-    component: ComponentCreator('/friends/', '41b'),
+    path: '/en/friends/',
+    component: ComponentCreator('/en/friends/', 'd00'),
     exact: true
   },
   {
-    path: '/project/',
-    component: ComponentCreator('/project/', '4d4'),
+    path: '/en/project/',
+    component: ComponentCreator('/en/project/', '391'),
     exact: true
   },
   {
-    path: '/resource/',
-    component: ComponentCreator('/resource/', 'fc3'),
+    path: '/en/resource/',
+    component: ComponentCreator('/en/resource/', '6fa'),
     exact: true
   },
   {
-    path: '/search',
-    component: ComponentCreator('/search', 'd7d'),
+    path: '/en/search',
+    component: ComponentCreator('/en/search', 'b00'),
     exact: true
   },
   {
-    path: '/tags',
-    component: ComponentCreator('/tags', '8c0'),
+    path: '/en/tags',
+    component: ComponentCreator('/en/tags', '12b'),
     exact: true
   },
   {
-    path: '/tags/lifestyle',
-    component: ComponentCreator('/tags/lifestyle', '705'),
+    path: '/en/tags/lifestyle',
+    component: ComponentCreator('/en/tags/lifestyle', 'b10'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '8a2'),
+    path: '/en/docs',
+    component: ComponentCreator('/en/docs', '076'),
     routes: [
       {
-        path: '/docs/Stack',
-        component: ComponentCreator('/docs/Stack', '158'),
+        path: '/en/docs/Stack',
+        component: ComponentCreator('/en/docs/Stack', '72a'),
         exact: true,
         sidebar: "stack"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '24c'),
+    path: '/en/',
+    component: ComponentCreator('/en/', 'b5c'),
     exact: true
   },
   {

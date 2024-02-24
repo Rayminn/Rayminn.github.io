@@ -1,15 +1,15 @@
 {
-  "permalink": "/first-blog",
+  "permalink": "/en/first-blog",
   "editUrl": "https://github.com/wrm244/docusaurus-theme-zen/edit/main/blog/first-blog.md",
   "source": "@site/blog/first-blog.md",
   "title": "First-blog",
   "description": "First-blog",
   "date": "2024-02-24T21:49:58.000Z",
-  "formattedDate": "2024年2月24日",
+  "formattedDate": "February 24, 2024",
   "tags": [
     {
       "label": "lifestyle",
-      "permalink": "/tags/lifestyle"
+      "permalink": "/en/tags/lifestyle"
     }
   ],
   "readingTime": 0.09666666666666666,
@@ -19,7 +19,7 @@
       "name": "Rayminn",
       "title": "Rayminn",
       "url": "https://github.com/Rayminn",
-      "imageURL": "/assets/images/social/avatar.jpg",
+      "imageURL": "/assets/images/social/rayminn1.jpg",
       "key": "Rayminn"
     }
   ],

@@ -1,18 +1,18 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/en/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/en/docs",
           "mainDocId": "stack/introduction",
           "docs": [
             {
               "id": "stack/introduction",
-              "path": "/docs/Stack",
+              "path": "/en/docs/Stack",
               "sidebar": "stack"
             }
           ],
@@ -20,7 +20,7 @@
           "sidebars": {
             "stack": {
               "link": {
-                "path": "/docs/Stack",
+                "path": "/en/docs/Stack",
                 "label": "stack/introduction"
               }
             }
@@ -36,17 +36,17 @@
         {
           "id": "first-blog",
           "metadata": {
-            "permalink": "/first-blog",
+            "permalink": "/en/first-blog",
             "editUrl": "https://github.com/wrm244/docusaurus-theme-zen/edit/main/blog/first-blog.md",
             "source": "@site/blog/first-blog.md",
             "title": "First-blog",
             "description": "First-blog",
             "date": "2024-02-24T21:49:58.000Z",
-            "formattedDate": "2024年2月24日",
+            "formattedDate": "February 24, 2024",
             "tags": [
               {
                 "label": "lifestyle",
-                "permalink": "/tags/lifestyle"
+                "permalink": "/en/tags/lifestyle"
               }
             ],
             "readingTime": 0.09666666666666666,
@@ -56,7 +56,7 @@
                 "name": "Rayminn",
                 "title": "Rayminn",
                 "url": "https://github.com/Rayminn",
-                "imageURL": "/assets/images/social/avatar.jpg",
+                "imageURL": "/assets/images/social/rayminn1.jpg",
                 "key": "Rayminn"
               }
             ],
@@ -74,19 +74,19 @@
         }
       ],
       "tags": {
-        "/tags/lifestyle": {
+        "/en/tags/lifestyle": {
           "label": "lifestyle",
           "items": [
             "first-blog"
           ],
-          "permalink": "/tags/lifestyle",
+          "permalink": "/en/tags/lifestyle",
           "pages": [
             {
               "items": [
                 "first-blog"
               ],
               "metadata": {
-                "permalink": "/tags/lifestyle",
+                "permalink": "/en/tags/lifestyle",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
