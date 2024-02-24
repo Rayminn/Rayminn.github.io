@@ -1,7 +1,7 @@
 const path = require('path')
 const math = require('remark-math');
 const katex = require('rehype-katex');
-const announcementBarContent = `🎉欢迎浏览<a href="https://github.com/wrm244/docusaurus-theme-zen/" target="_blank">docusaurus-theme-zen</a>`
+const announcementBarContent = `🎉欢迎来到Rayminn的窝`
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
