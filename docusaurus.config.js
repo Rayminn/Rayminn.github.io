@@ -5,7 +5,7 @@ const announcementBarContent = `🎉欢迎来到Rayminn的窝`
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'docusaurus-theme-zen',
+  title: "Rayminn's Home",
   titleDelimiter: '-',
   url: 'https://blog.rayminn.top/',//请填写你的网站
   baseUrl: '/',//建议填写/
@@ -52,9 +52,9 @@ const config = {
       },
     },
     navbar: {
-      title: 'docusaurus-theme-zen',
+      title: "Rayminn's Home",
       logo: {
-        alt: 'your name',
+        alt: 'Rayminn',
         src: '/assets/images/social/avatar.png',
         srcDark: '/assets/images/social/avatar.png',//记得加上绝对路径/
       },
@@ -214,14 +214,14 @@ const config = {
         scrollOffset: 0,
       },
     },
-    giscus: {
-      repo: 'wrm244/docusaurus-theme-zen',
-      repoId: 'R_kgDOJZ-VIA',
-      category: 'General',
-      categoryId: 'DIC_kwDOJZ-VIM4CV95r',
-      loading: "lazy",
-      lang: "zh-CN",
-    },
+    // giscus: {
+    //   repo: 'wrm244/docusaurus-theme-zen',
+    //   repoId: 'R_kgDOJZ-VIA',
+    //   category: 'General',
+    //   categoryId: 'DIC_kwDOJZ-VIM4CV95r',
+    //   loading: "lazy",
+    //   lang: "zh-CN",
+    // },
     liveCodeBlock: {
       playgroundPosition: 'top',
     },
@@ -278,9 +278,9 @@ const config = {
         path: 'blog',
         routeBasePath: '/',
         editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
-          `https://github.com/wrm244/docusaurus-theme-zen/edit/main/${blogDirPath}/${blogPath}`,
+          `https://github.com/Rayminn/Rayminn.github.io/edit/main/${blogDirPath}/${blogPath}`,
         editLocalizedFiles: false,
-        blogDescription: 'docusaurus-theme-zen',
+        blogDescription: "Rayminn's Home",
         blogSidebarCount: 10,
         blogSidebarTitle: '最近更新',
         postsPerPage: 10,
@@ -289,7 +289,7 @@ const config = {
           defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
         feedOptions: {
           type: 'all',
-          title: 'docusaurus-theme-zen',
+          title: "Rayminn's Home",
           copyright: `Copyright © ${new Date().getFullYear()} your name Built with Docusaurus. class="footer_lin">`,
         },
       },
@@ -341,12 +341,13 @@ const config = {
   },],
   i18n: {
     defaultLocale: 'zh-CN',
-    locales: ['en', 'zh-CN'],
-    localeConfigs: {
-      en: {
-        htmlLang: 'en-GB',
-      },
-    },
+    // locales: ['en', 'zh-CN'],
+    // localeConfigs: {
+    //   en: {
+    //     htmlLang: 'en-GB',
+    //   },
+    // },
+    locales: ['zh-CN'],
   },
   themes: [
     // ... Your other themes.
@@ -356,7 +357,8 @@ const config = {
       ({
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
-        language: ["en", "zh"],
+        // language: ["en", "zh"],
+        language: ["zh"],
         indexBlog: true,
         indexPages: true,
         indexDocs: true,

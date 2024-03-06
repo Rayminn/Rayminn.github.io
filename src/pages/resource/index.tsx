@@ -67,7 +67,7 @@ function CategoryList() {
 
 export default function Resources() {
   const title = '网址导航'
-  const description = '整合日常开发常用，推荐的网站导航页'
+  const description = '激情推荐'
 
   return (
     <>
