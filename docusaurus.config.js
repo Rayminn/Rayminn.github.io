@@ -214,14 +214,14 @@ const config = {
         scrollOffset: 0,
       },
     },
-    // giscus: {
-    //   repo: 'wrm244/docusaurus-theme-zen',
-    //   repoId: 'R_kgDOJZ-VIA',
-    //   category: 'General',
-    //   categoryId: 'DIC_kwDOJZ-VIM4CV95r',
-    //   loading: "lazy",
-    //   lang: "zh-CN",
-    // },
+    giscus: {
+      repo: 'wrm244/docusaurus-theme-zen',
+      repoId: 'R_kgDOJZ-VIA',
+      category: 'General',
+      categoryId: 'DIC_kwDOJZ-VIM4CV95r',
+      loading: "lazy",
+      lang: "zh-CN",
+    },
     liveCodeBlock: {
       playgroundPosition: 'top',
     },
