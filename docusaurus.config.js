@@ -341,13 +341,13 @@ const config = {
   },],
   i18n: {
     defaultLocale: 'zh-CN',
-    // locales: ['en', 'zh-CN'],
-    // localeConfigs: {
-    //   en: {
-    //     htmlLang: 'en-GB',
-    //   },
-    // },
-    locales: ['zh-CN'],
+    locales: ['en', 'zh-CN'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+    },
+    // locales: ['zh-CN'],
   },
   themes: [
     // ... Your other themes.
@@ -357,8 +357,8 @@ const config = {
       ({
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
-        // language: ["en", "zh"],
-        language: ["zh"],
+        language: ["en", "zh"],
+        // language: ["zh"],
         indexBlog: true,
         indexPages: true,
         indexDocs: true,
