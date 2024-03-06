@@ -50,14 +50,14 @@ function Hero() {
     <animated.div className={styles.hero}>
       <div className={styles.bloghome__intro}>
         <animated.div style={trails[0]} className={styles.hero_text}>
-          <Translate id="homepage.hero.greet">欢迎使用</Translate>
+          <Translate id="homepage.hero.greet">欢迎来到</Translate>
           <span className={styles.intro__name}>
-            <Translate id="homepage.hero.name">docusaurus-theme-zen</Translate>
+            <Translate id="homepage.hero.name">Rayminn's Home</Translate>
           </span>
         </animated.div>
         <animated.p style={trails[1]}>
           <Translate id="homepage.hero.text">
-            {`这是使用docusaurus搭建的主题,结合了docusaurus简单易用与其他开源页面设计方案、支持MDX和React、可扩展和定制等优点，以及加上设计美观便利、博客与文档一体的主题，为你提供一个优秀的个人页面解决方案。`}
+            {`欢迎进入奇怪技巧与碎碎念的集合地`}
           </Translate>
           <br />
           {/* <Translate
