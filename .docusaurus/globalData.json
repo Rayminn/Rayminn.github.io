@@ -1,0 +1,103 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/en/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/en/docs",
+          "mainDocId": "stack/introduction",
+          "docs": [
+            {
+              "id": "stack/introduction",
+              "path": "/en/docs/Stack",
+              "sidebar": "stack"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "stack": {
+              "link": {
+                "path": "/en/docs/Stack",
+                "label": "stack/introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogs": [
+        {
+          "id": "first-blog",
+          "metadata": {
+            "permalink": "/en/first-blog",
+            "editUrl": "https://github.com/wrm244/docusaurus-theme-zen/edit/main/blog/first-blog.md",
+            "source": "@site/blog/first-blog.md",
+            "title": "First-blog",
+            "description": "First-blog",
+            "date": "2024-02-24T21:49:58.000Z",
+            "formattedDate": "February 24, 2024",
+            "tags": [
+              {
+                "label": "lifestyle",
+                "permalink": "/en/tags/lifestyle"
+              }
+            ],
+            "readingTime": 0.09666666666666666,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Rayminn",
+                "title": "Rayminn",
+                "url": "https://github.com/Rayminn",
+                "imageURL": "/assets/images/social/rayminn1.jpg",
+                "key": "Rayminn"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog",
+              "title": "First-blog",
+              "date": "2024-02-24T21:49:58.000Z",
+              "tags": [
+                "lifestyle"
+              ],
+              "authors": "Rayminn"
+            }
+          },
+          "content": "## First-blog\n\n闲来无事，建了个Blog。\n\n可能会有各种碎碎念与奇怪技巧。\n\n交友邮箱：[friend@rayminn.top](friend@rayminn.top)"
+        }
+      ],
+      "tags": {
+        "/en/tags/lifestyle": {
+          "label": "lifestyle",
+          "items": [
+            "first-blog"
+          ],
+          "permalink": "/en/tags/lifestyle",
+          "pages": [
+            {
+              "items": [
+                "first-blog"
+              ],
+              "metadata": {
+                "permalink": "/en/tags/lifestyle",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "docusaurus-theme-zen",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

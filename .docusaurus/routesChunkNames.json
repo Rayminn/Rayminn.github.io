@@ -1,0 +1,97 @@
+{
+  "/en/about-bfc": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "ae30646c"
+    },
+    "content": "c5ae15a4"
+  },
+  "/en/archive-285": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "1987b986"
+    },
+    "archive": "15b483f2"
+  },
+  "/en/first-blog-c6b": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "1987b986"
+    },
+    "sidebar": "814f3328",
+    "content": "4ead9f35"
+  },
+  "/en/friends/-d00": {
+    "__comp": "e6cd77b4",
+    "__context": {
+      "plugin": "ae30646c"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/en/project/-391": {
+    "__comp": "a29f262d",
+    "__context": {
+      "plugin": "ae30646c"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/en/resource/-6fa": {
+    "__comp": "a06a2b3c",
+    "__context": {
+      "plugin": "ae30646c"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/en/search-b00": {
+    "__comp": "1a4e3797",
+    "__context": {
+      "plugin": "baa072b6"
+    }
+  },
+  "/en/tags-12b": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "1987b986"
+    },
+    "sidebar": "814f3328",
+    "tags": "e169ae7a"
+  },
+  "/en/tags/lifestyle-b10": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "1987b986"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "6b2e8d7f"
+      }
+    ],
+    "tag": "c43a24d1",
+    "listMetadata": "363899c2"
+  },
+  "/en/docs-076": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "a8c1f0de"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/en/docs/Stack-72a": {
+    "__comp": "17896441",
+    "content": "89f482ed"
+  },
+  "/en/-b5c": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "1987b986"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "6b2e8d7f"
+      }
+    ],
+    "metadata": "1ddeba0f"
+  }
+}

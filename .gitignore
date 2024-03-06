@@ -9,7 +9,7 @@
 cloudbaserc.json
 
 # Generated files
-.docusaurus
+# .docusaurus
 .cache-loader
 
 # Misc
