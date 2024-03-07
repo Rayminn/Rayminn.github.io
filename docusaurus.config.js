@@ -253,7 +253,6 @@ const config = {
         // blog: false,
         blog: {
           path: 'blog',
-          sidebarPath: 'sidebars.js',
           remarkPlugins: [math],
           rehypePlugins: [katex],
         },
