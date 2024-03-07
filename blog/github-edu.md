@@ -6,6 +6,10 @@ tags: []
 authors: Rayminn
 ---
 
+前几天申请了`Github`学生包的认证，小记申请指北。
+
+<!-- truncate -->
+
 # 关于Github学生包
 
 Github学生包里包括了一大揽子内容，本人目前用到的有`Github Pro`，`Github Copilot`，`Jetbrains 全家桶`等。
