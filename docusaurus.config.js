@@ -250,7 +250,8 @@ const config = {
           remarkPlugins: [math],
           rehypePlugins: [katex],
         },
-        blog: false,
+        // blog: false,
+        blog: true,
         theme: {
           customCss: [require.resolve('./src/css/custom.scss')],
         },
