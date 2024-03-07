@@ -89,7 +89,7 @@ function Hero() {
           </Translate> */}
           <br />
           {/* 徽章的效果 */}
-          <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wrm244/docusaurus-theme-zen?label=Update&logo=github" style={{ boxShadow: '0px 16px 30px rgb(62 196 109 / 15%)', marginTop: '14px' }} /> <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/wrm244/docusaurus-theme-zen/ci.yml?label=CI%20Build&logo=github" style={{ boxShadow: '0px 16px 30px rgb(62 196 109 / 15%)', marginTop: '14px' }}></img>
+          <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rayminn/Rayminn.github.io?label=Update&logo=github" style={{ boxShadow: '0px 16px 30px rgb(62 196 109 / 15%)', marginTop: '14px' }} /> <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Rayminn/Rayminn.github.io/ci.yml?label=CI%20Build&logo=github" style={{ boxShadow: '0px 16px 30px rgb(62 196 109 / 15%)', marginTop: '14px' }}></img>
         </animated.p>
         <SocialLinks style={trails[2]} />
         <animated.div style={trails[3]}>
