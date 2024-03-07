@@ -251,7 +251,12 @@ const config = {
           rehypePlugins: [katex],
         },
         // blog: false,
-        blog: true,
+        blog: {
+          path: 'blog',
+          sidebarPath: 'sidebars.js',
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
+        },
         theme: {
           customCss: [require.resolve('./src/css/custom.scss')],
         },
