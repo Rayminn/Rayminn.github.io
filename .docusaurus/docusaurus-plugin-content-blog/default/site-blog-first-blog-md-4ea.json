@@ -1,15 +1,15 @@
 {
-  "permalink": "/en/first-blog",
-  "editUrl": "https://github.com/wrm244/docusaurus-theme-zen/edit/main/blog/first-blog.md",
+  "permalink": "/first-blog",
+  "editUrl": "https://github.com/Rayminn/Rayminn.github.io/edit/main/blog/first-blog.md",
   "source": "@site/blog/first-blog.md",
   "title": "First-blog",
   "description": "First-blog",
   "date": "2024-02-24T21:49:58.000Z",
-  "formattedDate": "February 24, 2024",
+  "formattedDate": "2024年2月24日",
   "tags": [
     {
       "label": "lifestyle",
-      "permalink": "/en/tags/lifestyle"
+      "permalink": "/tags/lifestyle"
     }
   ],
   "readingTime": 0.09666666666666666,
@@ -31,5 +31,9 @@
       "lifestyle"
     ],
     "authors": "Rayminn"
+  },
+  "prevItem": {
+    "title": "Github学生包认证申请指北",
+    "permalink": "/github-edu"
   }
 }

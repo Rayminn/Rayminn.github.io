@@ -1,19 +1,11 @@
 {
   "defaultLocale": "zh-CN",
   "locales": [
-    "en",
     "zh-CN"
   ],
   "path": "i18n",
-  "currentLocale": "en",
+  "currentLocale": "zh-CN",
   "localeConfigs": {
-    "en": {
-      "label": "English",
-      "direction": "ltr",
-      "htmlLang": "en-GB",
-      "calendar": "gregory",
-      "path": "en"
-    },
     "zh-CN": {
       "label": "中文（中国）",
       "direction": "ltr",

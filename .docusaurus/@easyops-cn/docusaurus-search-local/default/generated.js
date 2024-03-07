@@ -1,12 +1,11 @@
 import lunr from "/workspaces/Rayminn.github.io/node_modules/lunr/lunr.js";
 require("/workspaces/Rayminn.github.io/node_modules/lunr-languages/lunr.stemmer.support.js")(lunr);
 require("@easyops-cn/docusaurus-search-local/dist/client/shared/lunrLanguageZh").lunrLanguageZh(lunr);
-require("/workspaces/Rayminn.github.io/node_modules/lunr-languages/lunr.multi.js")(lunr);
-export const language = ["en","zh"];
+export const language = ["zh"];
 export const removeDefaultStopWordFilter = false;
 export const removeDefaultStemmer = false;
 export const Mark = null;
-export const searchIndexUrl = "search-index{dir}.json?_=7ec33de8";
+export const searchIndexUrl = "search-index{dir}.json?_=940b0330";
 export const searchResultLimits = 8;
 export const searchResultContextMaxLength = 50;
 export const explicitSearchResultPath = false;

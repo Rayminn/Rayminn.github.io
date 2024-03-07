@@ -4,10 +4,10 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "docusaurus-theme-zen",
+  "title": "Rayminn's Home",
   "titleDelimiter": "-",
   "url": "https://blog.rayminn.top",
-  "baseUrl": "/en/",
+  "baseUrl": "/",
   "favicon": "/assets/images/social/avatar.ico",
   "organizationName": "",
   "projectName": "docusaurus-theme-zen",
@@ -321,54 +321,54 @@ export default {
       "versionPersistence": "localStorage"
     },
     "navbar": {
-      "title": "RM's Technical Archive",
+      "title": "Rayminn's Home",
       "logo": {
-        "alt": "your name",
+        "alt": "Rayminn",
         "src": "/assets/images/social/avatar.png",
         "srcDark": "/assets/images/social/avatar.png"
       },
       "hideOnScroll": false,
       "items": [
         {
-          "label": "blog",
+          "label": "博客",
           "position": "left",
           "items": [
             {
-              "label": "Tags",
+              "label": "标签",
               "to": "tags"
             },
             {
-              "label": "Archive",
+              "label": "归档",
               "to": "archive"
             },
             {
-              "label": "Lifestyle",
+              "label": "随笔",
               "to": "tags/lifestyle"
             }
           ]
         },
         {
-          "label": "Notes",
+          "label": "笔记",
           "position": "left",
           "to": "docs/stack/",
           "items": [
             {
-              "label": "Build Site",
+              "label": "本站介绍",
               "to": "first-blog"
             },
             {
-              "label": "Stack",
+              "label": "学习栈",
               "to": "docs/stack/"
             }
           ]
         },
         {
-          "label": "Links",
+          "label": "导航",
           "position": "left",
           "to": "resource"
         },
         {
-          "label": "Projects",
+          "label": "项目",
           "position": "left",
           "to": "project"
         },
@@ -384,36 +384,36 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Blog",
+          "title": "博客",
           "items": [
             {
-              "label": "Tags",
+              "label": "标签",
               "to": "tags"
             },
             {
-              "label": "Archive",
+              "label": "归档",
               "to": "archive"
             }
           ]
         },
         {
-          "title": "Study",
+          "title": "学习",
           "items": [
             {
-              "label": "Notes",
+              "label": "笔记",
               "to": "docs/stack"
             },
             {
-              "label": "Projects",
+              "label": "项目",
               "to": "project"
             }
           ]
         },
         {
-          "title": "Social Media",
+          "title": "社交媒体",
           "items": [
             {
-              "label": "About Me",
+              "label": "关于我",
               "to": "/about"
             },
             {
@@ -423,14 +423,14 @@ export default {
           ]
         },
         {
-          "title": "More",
+          "title": "更多",
           "items": [
             {
-              "label": "Friends",
+              "label": "友链",
               "to": "friends"
             },
             {
-              "label": "Links",
+              "label": "导航",
               "to": "resource"
             },
             {
@@ -439,7 +439,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 docusaurus-theme-zen. Built with <a href=\"https://docusaurus.io/zh-CN/\" target=\"_blank\">Docusaurus.</a><br/><script async src=\"//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js\"></script><br/><span id=\"busuanzi_container_site_pv\">This site has been visited <span id=\"busuanzi_value_site_pv\"></span> times in total.</span>"
+      "copyright": "版权所有 © 2024 docusaurus-theme-zen, 此网站使用 <a href=\"https://docusaurus.io/zh-CN/\" target=\"_blank\">Docusaurus</a> 搭建\n      <span id=\"runtime_span\"></span>\n      <script type=\"text/javascript\">function show_runtime(){window.setTimeout(\"show_runtime()\",1000);X=new \n      Date(\"02/24/2024 12:00:00\");\n      Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;\n      a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);\n      runtime_span.innerHTML=\"<br>本站已运行: \"+A+\"天\"+B+\"小时\"+C+\"分\"+D+\"秒\"}show_runtime();</script>"
     },
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -457,10 +457,10 @@ export default {
       }
     },
     "giscus": {
-      "repo": "wrm244/docusaurus-theme-zen",
-      "repoId": "R_kgDOJZ-VIA",
+      "repo": "Rayminn/Rayminn.github.io",
+      "repoId": "R_kgDOLEXDaQ",
       "category": "General",
-      "categoryId": "DIC_kwDOJZ-VIM4CV95r",
+      "categoryId": "DIC_kwDOLEXDac4CdxEP",
       "loading": "lazy",
       "lang": "zh-CN"
     },
@@ -514,7 +514,6 @@ export default {
       {
         "hashed": true,
         "language": [
-          "en",
           "zh"
         ],
         "indexBlog": true,
@@ -537,14 +536,14 @@ export default {
         "path": "blog",
         "routeBasePath": "/",
         "editLocalizedFiles": false,
-        "blogDescription": "docusaurus-theme-zen",
+        "blogDescription": "Rayminn's Home",
         "blogSidebarCount": 10,
         "blogSidebarTitle": "最近更新",
         "postsPerPage": 10,
         "showReadingTime": true,
         "feedOptions": {
           "type": "all",
-          "title": "docusaurus-theme-zen",
+          "title": "Rayminn's Home",
           "copyright": "Copyright © 2024 your name Built with Docusaurus. class=\"footer_lin\">"
         }
       }
@@ -596,16 +595,10 @@ export default {
   "i18n": {
     "defaultLocale": "zh-CN",
     "locales": [
-      "en",
       "zh-CN"
     ],
-    "localeConfigs": {
-      "en": {
-        "htmlLang": "en-GB",
-        "direction": "ltr"
-      }
-    },
-    "path": "i18n"
+    "path": "i18n",
+    "localeConfigs": {}
   },
   "baseUrlIssueBanner": true,
   "onBrokenMarkdownLinks": "warn",

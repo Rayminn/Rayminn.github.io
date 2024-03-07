@@ -2,8 +2,12 @@
   "title": "最近更新",
   "items": [
     {
+      "title": "Github学生包认证申请指北",
+      "permalink": "/github-edu"
+    },
+    {
       "title": "First-blog",
-      "permalink": "/en/first-blog"
+      "permalink": "/first-blog"
     }
   ]
 }

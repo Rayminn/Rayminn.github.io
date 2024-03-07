@@ -84,7 +84,7 @@ const config = {
           to: 'docs/stack/',
           items: [
             {
-              label: '本站的搭建',
+              label: '本站介绍',
               to: 'first-blog',
             },
             {
