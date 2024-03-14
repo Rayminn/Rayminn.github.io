@@ -1,16 +1,16 @@
 {
-  "name": "docusaurus-theme-zen",
+  "name": "blog",
   "version": "1.0.0",
   "author": {
-    "url": "https://github.com/docusaurus-theme-zen",
-    "email": "wrm244@outlook.com",
-    "name": "wrm244"
+    "url": "https://github.com/Rayminn",
+    "email": "raymin.oi@outlook.com",
+    "name": "rayminn"
   },
   "repository": {
-    "url": "https://github.com/wrm244/docusaurus-theme-zen",
+    "url": "https://github.com/Rayminn/Rayminn.github.io/",
     "type": "git"
   },
-  "homepage": "https://wrm244.github.io/docusaurus-theme-zen",
+  "homepage": "https://blog.rayminn.top/",
   "license": "MIT",
   "scripts": {
     "docusaurus": "docusaurus",
