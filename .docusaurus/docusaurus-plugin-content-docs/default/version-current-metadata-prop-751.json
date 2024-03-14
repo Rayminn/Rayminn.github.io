@@ -11,7 +11,7 @@
     "stack": [
       {
         "type": "link",
-        "label": "README",
+        "label": "介绍",
         "href": "/docs/Stack",
         "docId": "stack/introduction"
       }
@@ -20,8 +20,8 @@
   "docs": {
     "stack/introduction": {
       "id": "stack/introduction",
-      "title": "README",
-      "description": "这里记录笔记",
+      "title": "介绍",
+      "description": "Rayminn's Notebook",
       "sidebar": "stack"
     }
   }

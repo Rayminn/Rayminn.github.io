@@ -12,7 +12,7 @@ const config = {
   favicon: '/assets/images/social/avatar.ico',
   organizationName: '',
   projectName: 'docusaurus-theme-zen',
-  tagline: 'docusaurus的一款美观便捷主题',
+  tagline: '碎碎念系列',
   onBrokenLinks: 'ignore',  //忽略坏链
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
@@ -332,12 +332,12 @@ const config = {
     ],
   ],
   // stylesheets: [
-    // {
-    // href: 'https://jsd.onmicrosoft.cn/npm/katex@0.13.24/dist/katex.min.css',
-    // type: 'text/css',
-    // integrity:
-      // 'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
-    // crossorigin: 'anonymous',
+  //   {
+  //   href: 'https://jsd.onmicrosoft.cn/npm/katex@0.13.24/dist/katex.min.css',
+  //   type: 'text/css',
+  //   integrity:
+  //     'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+  //   crossorigin: 'anonymous',
   // },],
   stylesheets: [
     {

@@ -3,12 +3,12 @@
   "editUrl": "https://github.com/Rayminn/Rayminn.github.io/edit/main/blog/github-edu.md",
   "source": "@site/blog/github-edu.md",
   "title": "Github学生包认证申请指北",
-  "description": "Github学生包里包括了一大揽子内容，笔者目前用到的有Github Pro，Github Copilot，Jetbrains 全家桶等。",
+  "description": "前几天申请了Github学生包的认证，小记申请指北。",
   "date": "2024-03-06T21:21:00.000Z",
   "formattedDate": "2024年3月6日",
   "tags": [],
-  "readingTime": 0.18333333333333332,
-  "hasTruncateMarker": false,
+  "readingTime": 1.46,
+  "hasTruncateMarker": true,
   "authors": [
     {
       "name": "Rayminn",

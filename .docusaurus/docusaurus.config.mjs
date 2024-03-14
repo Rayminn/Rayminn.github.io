@@ -11,7 +11,7 @@ export default {
   "favicon": "/assets/images/social/avatar.ico",
   "organizationName": "",
   "projectName": "docusaurus-theme-zen",
-  "tagline": "docusaurus的一款美观便捷主题",
+  "tagline": "碎碎念系列",
   "onBrokenLinks": "ignore",
   "themeConfig": {
     "image": "/assets/images/social/avatar.png",
@@ -586,7 +586,7 @@ export default {
   ],
   "stylesheets": [
     {
-      "href": "https://jsd.onmicrosoft.cn/npm/katex@0.13.24/dist/katex.min.css",
+      "href": "https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css",
       "type": "text/css",
       "integrity": "sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM",
       "crossorigin": "anonymous"

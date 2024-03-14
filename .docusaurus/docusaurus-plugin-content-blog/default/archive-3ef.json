@@ -7,12 +7,12 @@
         "editUrl": "https://github.com/Rayminn/Rayminn.github.io/edit/main/blog/github-edu.md",
         "source": "@site/blog/github-edu.md",
         "title": "Github学生包认证申请指北",
-        "description": "Github学生包里包括了一大揽子内容，笔者目前用到的有Github Pro，Github Copilot，Jetbrains 全家桶等。",
+        "description": "前几天申请了Github学生包的认证，小记申请指北。",
         "date": "2024-03-06T21:21:00.000Z",
         "formattedDate": "2024年3月6日",
         "tags": [],
-        "readingTime": 0.18333333333333332,
-        "hasTruncateMarker": false,
+        "readingTime": 1.46,
+        "hasTruncateMarker": true,
         "authors": [
           {
             "name": "Rayminn",
@@ -34,7 +34,7 @@
           "permalink": "/first-blog"
         }
       },
-      "content": "Github学生包里包括了一大揽子内容，笔者目前用到的有`Github Pro`，`Github Copilot`，`Jetbrains 全家桶`等。\n\n具体内容可见[Github 学生包](https://education.github.com/)页面。\n\n# 申请指北\n\n## 申请条件\n\n- 年满$13$周岁，"
+      "content": "前几天申请了`Github`学生包的认证，小记申请指北。\n\n<!-- truncate -->\n\n# 关于Github学生包\n\nGithub学生包里包括了一大揽子内容，本人目前用到的有`Github Pro`，`Github Copilot`，`Jetbrains 全家桶`等。\n\n具体内容可见[Github 学生包](https://education.github.com/)页面。\n\n# 申请指北\n\n## 申请条件\n\n- 年满13周岁\n- 文凭教育在读\n- 能够开具证明\n\n## 申请准备\n\n使用`MS Edge`，`Chrome`，`Safari`，`Firefox`中的一个浏览器。\n\n填写`Github`账户信息，确保信息中姓名与证明的证明相同。\n\n开启`2fa`双重认证。\n\n搞到带学校名称与本人名称的证明（学信网、学生证或者充分运用人类智慧）\n\n> 本人的证明是用成绩证明截掉成绩爆改而来（）\n\n## 申请过程\n\n![pic1](/blogpic/github-edu1.png)\n\n选择用于认证的邮箱，有`edu`邮箱的最好用`edu`邮箱，但本人作为苦x高中生甚至学校没有`edu`网站，但普通邮箱用正式证明也能过认证。\n\n![pic2](/blogpic/github-edu2.png)\n\n填写学校名称，对于大陆学校输入中文全名就会出现包含中文名英文名与学校网站的选项。\n\n填写你申请认证的理由，但这个理由并不重要，本人只写了下面一句话：\n\n> I wanna learn to code and try to make contribution to the community.\n\n然后将你准备的证明上传到网站上，并等待五天左右就大功告成了！\n\n![pic3](/blogpic/github-edu3.png)\n\n申请生效后侧栏会出现如图申请记录，在成功与生效直接还需要等待三天左右。成功后`Approved`是绿色的，此时不会有邮件通知，生效后会变成紫色并邮件通知，然后就可以使用学生包内的所有内容啦！"
     },
     {
       "id": "first-blog",
