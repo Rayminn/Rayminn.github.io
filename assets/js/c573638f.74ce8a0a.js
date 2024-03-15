@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[964],{8866:function(e){e.exports=JSON.parse('[{"label":"lifestyle","permalink":"/tags/lifestyle","count":2}]')}}]);

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Rayminn's Home</title>
+        <link>https://blog.rayminn.top/</link>
+        <description>Rayminn's Home Blog</description>
+        <lastBuildDate>Thu, 14 Mar 2024 12:30:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-CN</language>
+        <copyright>Copyright © 2024 your name Built with Docusaurus. class="footer_lin"&gt;</copyright>
+        <item>
+            <title><![CDATA[疯四V50]]></title>
+            <link>https://blog.rayminn.top/crazy-thu</link>
+            <guid>https://blog.rayminn.top/crazy-thu</guid>
+            <pubDate>Thu, 14 Mar 2024 12:30:00 GMT</pubDate>
+            <description><![CDATA[KFC疯狂星期四V50 to me!]]></description>
+            <content:encoded><![CDATA[<p>KFC疯狂星期四V50 to me!</p><p><img loading="lazy" alt="crazy-thu1" src="/assets/images/crazy-thu1-f6ca99c8cc4fb1492189952f0479b9e5.jpg" width="927" height="927" class="img_ev3q"></p>]]></content:encoded>
+            <category>lifestyle</category>
+        </item>
+        <item>
+            <title><![CDATA[Github学生包认证申请指北]]></title>
+            <link>https://blog.rayminn.top/github-edu</link>
+            <guid>https://blog.rayminn.top/github-edu</guid>
+            <pubDate>Wed, 06 Mar 2024 21:21:00 GMT</pubDate>
+            <description><![CDATA[前几天申请了Github学生包的认证，小记申请指北。]]></description>
+            <content:encoded><![CDATA[<p>前几天申请了<code>Github</code>学生包的认证，小记申请指北。</p><h1>关于Github学生包</h1><p>Github学生包里包括了一大揽子内容，本人目前用到的有<code>Github Pro</code>，<code>Github Copilot</code>，<code>Jetbrains 全家桶</code>等。</p><p>具体内容可见<a href="https://education.github.com/" target="_blank" rel="noopener noreferrer">Github 学生包</a>页面。</p><h1>申请指北</h1><h2 class="anchor anchorWithStickyNavbar_LWe7" id="申请条件">申请条件<a href="#申请条件" class="hash-link" aria-label="申请条件的直接链接" title="申请条件的直接链接">​</a></h2><ul><li>年满13周岁</li><li>文凭教育在读</li><li>能够开具证明</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="申请准备">申请准备<a href="#申请准备" class="hash-link" aria-label="申请准备的直接链接" title="申请准备的直接链接">​</a></h2><p>使用<code>MS Edge</code>，<code>Chrome</code>，<code>Safari</code>，<code>Firefox</code>中的一个浏览器。</p><p>填写<code>Github</code>账户信息，确保信息中姓名与证明的证明相同。</p><p>开启<code>2fa</code>双重认证。</p><p>搞到带学校名称与本人名称的证明（学信网、学生证或者充分运用人类智慧）</p><blockquote><p>本人的证明是用成绩证明截掉成绩爆改而来（）</p></blockquote><h2 class="anchor anchorWithStickyNavbar_LWe7" id="申请过程">申请过程<a href="#申请过程" class="hash-link" aria-label="申请过程的直接链接" title="申请过程的直接链接">​</a></h2><p><img loading="lazy" alt="pic1" src="/assets/images/github-edu1-fed21e83855301bee408071934776c8d.png" width="894" height="391" class="img_ev3q"></p><p>选择用于认证的邮箱，有<code>edu</code>邮箱的最好用<code>edu</code>邮箱，但本人作为苦x高中生甚至学校没有<code>edu</code>网站，但普通邮箱用正式证明也能过认证。</p><p><img loading="lazy" alt="pic2" src="/assets/images/github-edu2-2d125bf36516196751b228d9dbf57f2e.png" width="899" height="209" class="img_ev3q"></p><p>填写学校名称，对于大陆学校输入中文全名就会出现包含中文名英文名与学校网站的选项。</p><p>填写你申请认证的理由，但这个理由并不重要，本人只写了下面一句话：</p><blockquote><p>I wanna learn to code and try to make contribution to the community.</p></blockquote><p>然后将你准备的证明上传到网站上，并等待五天左右就大功告成了！</p><p><img loading="lazy" alt="pic3" src="/assets/images/github-edu3-80111b0be6cfddf02654b12a9c36810e.png" width="496" height="235" class="img_ev3q"></p><p>申请生效后侧栏会出现如图申请记录，在成功与生效直接还需要等待三天左右。成功后<code>Approved</code>是绿色的，此时不会有邮件通知，生效后会变成紫色并邮件通知，然后就可以使用学生包内的所有内容啦！</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[First-blog]]></title>
+            <link>https://blog.rayminn.top/first-blog</link>
+            <guid>https://blog.rayminn.top/first-blog</guid>
+            <pubDate>Sat, 24 Feb 2024 21:49:58 GMT</pubDate>
+            <description><![CDATA[First-blog]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="first-blog">First-blog<a href="#first-blog" class="hash-link" aria-label="First-blog的直接链接" title="First-blog的直接链接">​</a></h2><p>闲来无事，建了个Blog。</p><p>可能会有各种碎碎念与奇怪技巧。</p><p>交友邮箱：<a href="/friend@rayminn.top">friend@rayminn.top</a></p>]]></content:encoded>
+            <category>lifestyle</category>
+        </item>
+    </channel>
+</rss>

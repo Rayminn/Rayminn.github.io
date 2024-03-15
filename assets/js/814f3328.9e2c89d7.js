@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[535],{5641:function(t){t.exports=JSON.parse('{"title":"\u6700\u8fd1\u66f4\u65b0","items":[{"title":"\u75af\u56dbV50","permalink":"/crazy-thu"},{"title":"Github\u5b66\u751f\u5305\u8ba4\u8bc1\u7533\u8bf7\u6307\u5317","permalink":"/github-edu"},{"title":"First-blog","permalink":"/first-blog"}]}')}}]);

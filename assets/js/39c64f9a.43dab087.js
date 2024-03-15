@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[189],{1086:function(e){e.exports=JSON.parse('{"permalink":"/tags/lifestyle","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Rayminn\'s Home","blogTitle":"Blog"}')}}]);
