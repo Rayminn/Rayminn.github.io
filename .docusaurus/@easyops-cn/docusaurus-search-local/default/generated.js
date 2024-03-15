@@ -5,7 +5,7 @@ export const language = ["zh"];
 export const removeDefaultStopWordFilter = false;
 export const removeDefaultStemmer = false;
 export const Mark = null;
-export const searchIndexUrl = "search-index{dir}.json?_=c55e9e67";
+export const searchIndexUrl = "search-index{dir}.json?_=76267b25";
 export const searchResultLimits = 8;
 export const searchResultContextMaxLength = 50;
 export const explicitSearchResultPath = false;

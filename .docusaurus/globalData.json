@@ -34,6 +34,49 @@
     "default": {
       "blogs": [
         {
+          "id": "crazy-thu",
+          "metadata": {
+            "permalink": "/crazy-thu",
+            "editUrl": "https://github.com/Rayminn/Rayminn.github.io/edit/main/blog/crazy-thu.md",
+            "source": "@site/blog/crazy-thu.md",
+            "title": "疯四V50",
+            "description": "KFC疯狂星期四V50 to me!",
+            "date": "2024-03-14T12:30:00.000Z",
+            "formattedDate": "2024年3月14日",
+            "tags": [
+              {
+                "label": "lifestyle",
+                "permalink": "/tags/lifestyle"
+              }
+            ],
+            "readingTime": 0.043333333333333335,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Rayminn",
+                "title": "Rayminn",
+                "url": "https://github.com/Rayminn",
+                "imageURL": "/assets/images/social/rayminn1.jpg",
+                "key": "Rayminn"
+              }
+            ],
+            "frontMatter": {
+              "slug": "crazy-thu",
+              "title": "疯四V50",
+              "date": "2024-03-14T12:30:00.000Z",
+              "tags": [
+                "lifestyle"
+              ],
+              "authors": "Rayminn"
+            },
+            "nextItem": {
+              "title": "Github学生包认证申请指北",
+              "permalink": "/github-edu"
+            }
+          },
+          "content": "KFC疯狂星期四V50 to me!\n\n<!-- truncate -->\n\n![crazy-thu1](/blogpic/crazy-thu1.jpg)"
+        },
+        {
           "id": "github-edu",
           "metadata": {
             "permalink": "/github-edu",
@@ -61,6 +104,10 @@
               "date": "2024-03-06T21:21:00.000Z",
               "tags": [],
               "authors": "Rayminn"
+            },
+            "prevItem": {
+              "title": "疯四V50",
+              "permalink": "/crazy-thu"
             },
             "nextItem": {
               "title": "First-blog",
@@ -117,12 +164,14 @@
         "/tags/lifestyle": {
           "label": "lifestyle",
           "items": [
+            "crazy-thu",
             "first-blog"
           ],
           "permalink": "/tags/lifestyle",
           "pages": [
             {
               "items": [
+                "crazy-thu",
                 "first-blog"
               ],
               "metadata": {
@@ -130,7 +179,7 @@
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
-                "totalCount": 1,
+                "totalCount": 2,
                 "blogDescription": "Rayminn's Home",
                 "blogTitle": "Blog"
               }

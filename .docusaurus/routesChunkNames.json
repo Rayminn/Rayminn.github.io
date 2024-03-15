@@ -56,6 +56,14 @@
     },
     "archive": "archive---archive-2-e-8-25f"
   },
+  "/crazy-thu-dc9": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---archive-198-858"
+    },
+    "sidebar": "sidebar---first-blog-814-a24",
+    "content": "content---crazy-thu-652-6d6"
+  },
   "/first-blog-85b": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
@@ -107,13 +115,16 @@
     "sidebar": "sidebar---first-blog-814-a24",
     "tags": "tags---tagsc-57-e72"
   },
-  "/tags/lifestyle-705": {
+  "/tags/lifestyle-af2": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---archive-198-858"
     },
     "sidebar": "sidebar---first-blog-814-a24",
     "items": [
+      {
+        "content": "content---a-6-f-1ae"
+      },
       {
         "content": "content---tags-lifestyle-6-b-2-a44"
       }
@@ -132,13 +143,16 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-stack-89-f-35f"
   },
-  "/-398": {
+  "/-407": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---archive-198-858"
     },
     "sidebar": "sidebar---first-blog-814-a24",
     "items": [
+      {
+        "content": "content---a-6-f-1ae"
+      },
       {
         "content": "content---738-8d5"
       },

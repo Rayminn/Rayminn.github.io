@@ -48,6 +48,11 @@ export default [
     exact: true
   },
   {
+    path: '/crazy-thu',
+    component: ComponentCreator('/crazy-thu', 'dc9'),
+    exact: true
+  },
+  {
     path: '/first-blog',
     component: ComponentCreator('/first-blog', '85b'),
     exact: true
@@ -84,7 +89,7 @@ export default [
   },
   {
     path: '/tags/lifestyle',
-    component: ComponentCreator('/tags/lifestyle', '705'),
+    component: ComponentCreator('/tags/lifestyle', 'af2'),
     exact: true
   },
   {
@@ -101,7 +106,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '398'),
+    component: ComponentCreator('/', '407'),
     exact: true
   },
   {
