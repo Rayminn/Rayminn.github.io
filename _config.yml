@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rayminn HomePage"
-description              : "Rayminn的个人主页"
+description              : "Code Create Life"
 repository               : "Rayminn/Rayminn.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yiming Lei"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "High School Attached to Harbin Normal University"
+  bio              : "哈师大附中"
   location         : "Heilongjiang, China"
   employer         :
   pubmed           : 
