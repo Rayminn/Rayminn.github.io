@@ -1,19 +1,7 @@
 # main links links
 main:
-  # - title: "动态"
-  #   url: "/#-动态"
-
-  # - title: "出版"
-  #   url: "/#-出版"
-
-  # - title: "荣誉"
-  #   url: "/#-荣誉"
-
-  # - title: "教育经历"
-  #   url: "/#-教育经历"
-
-  # - title: "工作经历"
-  #   url: "/#-工作经历"
-
   - title: "我的博客"
     url: "https://blog.rayminn.top/"
+
+  - title: "与我联系"
+    url: "https://t.me/rayminn_lym/"

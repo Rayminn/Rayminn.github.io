@@ -21,7 +21,7 @@ redirect_from:
 
 🎯 热爱学术,热爱生活,偶尔发疯.
 
-🧐 [我的博客](https://blog.rayminn.top)
+🧐 欢迎逛我的博客⬆
 
 🚩 即将成为社畜大学生.
 
