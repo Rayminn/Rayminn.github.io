@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<h1 align="left"> <a href="https://www.rayminn.top/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Rayminn祝您今日愉快!&center=true&size=27"> </a> </h1>
+![Hello World!](https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Rayminn祝您今日愉快!&center=false&size=27)
 
 👋 嗨,我是Rayminn,一个社畜OIer.
 
