@@ -46,7 +46,8 @@ redirect_from:
 
 # 🎖 荣誉
 
-2023.3 信息学省一
+2024.05 超算互联网公测三等奖
+2023.03 信息技术学省一等奖
 
 <span class='anchor' id='jiao-yu'></span>
 

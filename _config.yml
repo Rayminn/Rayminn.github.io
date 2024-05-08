@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Rayminn HomePage"
+title                    : "Rayminn"
 description              : "Code Create Life"
 repository               : "Rayminn/Rayminn.github.io"
 google_scholar_stats_use_cdn : true
