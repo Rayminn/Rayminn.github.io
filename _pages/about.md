@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-![Hello World!](https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;Rayminn祝您今日愉快!&center=false&size=27)
+![![helloworld](https://raw.githubusercontent.com/Rayminn/img/main/helloworld.svg)](http://cdn.jsdelivr.net/gh/Rayminn/img/helloworld.svg)
 
 👋 嗨,我是Rayminn,一个社畜OIer.
 
@@ -34,7 +34,9 @@ redirect_from:
 
 # 🔥 动态
 
-- 2024.4 建站祭
+- 2024.06 高中杀青！高考在即！
+
+- 2024.04 建站祭
 
 <span class='anchor' id='chu-ban'></span>
 
