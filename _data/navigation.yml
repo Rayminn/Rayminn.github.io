@@ -3,14 +3,14 @@ main:
   - title: "动态"
     url: "/#dong-tai"
     
-  - title: "出版"
-    url: "/#chu-ban"
-    
   - title: "荣誉"
     url: "/#rong-yu"
     
   - title: "教育经历"
     url: "/#jiao-yu"
+
+  - title: "社会实践"
+    url: "/#shi-jian"
 
   - title: "工作经历"
     url: "/#gong-zuo"
