@@ -19,7 +19,7 @@ redirect_from:
 
 ![![helloworld](https://raw.githubusercontent.com/Rayminn/img/main/helloworld.svg)](http://cdn.jsdelivr.net/gh/Rayminn/img/helloworld.svg)
 
-👋 嗨,我是Rayminn,一个社畜OIer.
+👋 嗨,我是Rayminn,一个社畜(前)OIer.
 
 🎯 热爱学术,热爱生活,偶尔发疯.
 
